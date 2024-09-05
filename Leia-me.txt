@@ -1,0 +1,23 @@
+Aqui um passo a passo de todos comando feito no CMD para enviar seu repositorio
+
+1 - cd " o caminho onde esta seu projeto" ex cd C:\Users\Equatorial Sistemas\Desktop\GitHub_Rapid_eFacil
+
+2 - C:\Users\Equatorial Sistemas\Desktop\GitHub_Rapid_eFacil> dir
+
+3- C:\Users\Equatorial Sistemas\Desktop\GitHub_Rapid_eFacil> rd .git /S/Q
+
+4- C:\Users\Equatorial Sistemas\Desktop\GitHub_Rapid_eFacil>git init
+
+5 - C:\Users\Equatorial Sistemas\Desktop\GitHub_Rapid_eFacil>git add .
+
+6 - C:\Users\Equatorial Sistemas\Desktop\GitHub_Rapid_eFacil>git commit -m "fisrt commit"
+
+7 - C:\Users\Equatorial Sistemas\Desktop\GitHub_Rapid_eFacil>git remote add origin https://github.com/nivaldonascimento2/GitHub_Rapid_e_Facil.git //
+											esse é o caminho do seu repositorio
+
+8 - C:\Users\Equatorial Sistemas\Desktop\GitHub_Rapid_eFacil>git push -u origin master
+
+
+OBS: el algum momento ele vai pedir o acesso ao seu repositorio voce da um OK
+ esse diretorio é um exemplo cada um vai criar o seu onde for melhor
+Criar novo repositorio renomear e achar o link vou disponibilizar em outro arquivo com imagens
